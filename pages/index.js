@@ -22,6 +22,9 @@ export default function Home() {
           <a href="https://marcc.io/Platzhalter" className="card">
             <h3>Designs</h3>
           </a>
+          <a href="https://404.marcc.io" className="card">
+            <h3>404</h3>
+          </a>
         </div>
       </main>
 
