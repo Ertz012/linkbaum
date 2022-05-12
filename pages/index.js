@@ -19,9 +19,6 @@ export default function Home() {
           <a href="https://github.com/marcoderso" className="card">
             <h3>Github</h3>
           </a>
-          <a href="https://marcc.io/Platzhalter" className="card">
-            <h3>Designs</h3>
-          </a>
           <a href="https://404.marcc.io" className="card">
             <h3>404</h3>
           </a>
